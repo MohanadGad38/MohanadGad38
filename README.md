@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @MohanadGad38
-- 👀 I’m interested in  computer scince
-- 🌱 I’m currently learning  web development
-- 💞️ I’m looking to collaborate on  new projects 
-- 📫 reach me  at mohanad.gad38@gmail.com
+Computer scientist and junior backend developer proficient in Flask, Python, Discord bots, SQL, and Natural Language Processing (NLP). Skilled in data collection and processing for LLM models like Finetune and Ragging. Passionate about leveraging technology to tackle real-world challenges, with a specialized focus on backend development and NLP expertise.You can check out some of my projects on GitHub/
 
 <!---
 MohanadGad38/MohanadGad38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
